@@ -53,13 +53,19 @@ The Snufkin Custom Zombies Plus contains the following entities:
 ============
 INSTALLATION
 ============
-For players and server hosts who have never installed a mod before.
-If you've never installed a mod before it is necessary to create a mod folder in the main directory or in an area suggested by your server host if they have modified the installation. Simply make a new folder called Mods (with a capital M to reflect standard nomenclature). If you drag the mod folder directly out of the zipped file it can be placed directly into the Mods folder and the game will look in there as you launch your World. If you allow your unzip function to extract the folder, it may make another unnecessary folder and place the mod inside it. This will not be recognised by the game/server if you place it in the Mods folder like this. Please take it out of the extra folder level. The top layer will be a single folder and in the second layer you will see a ModInfo.xml file with or without additional folders depending on the mod. This will become elementary once you've launched a few mods.
+For Players and Server Admin/Hosts who have never installed a mod before, here are some simple step by step instructions:
+
+1. If you've never installed a mod before, it is necessary to create a mod folder in the main directory, typically (\SteamLibrary\steamapps\common\7 Days To Die).
+If you have a custom install or your server host has modified the installation location, then you may have to explore.
+
+2. Simply make a new folder called Mods (with a capital M to reflect standard nomenclature) in your '7 Days To Die' main directory folder.
+
+3. You can now drag the mod folder directly out of the zipped file and it can be placed directly into the Mods folder. However, there may be a top folder which you do not need. You are looking for a folder that contains a 'ModInfo' file. The folder holding that file will be the one you add to your Mods folder. If you add a folder above that nesting then the game will not be able to see the mod. The top layer will be a single folder and in the second layer you will see a ModInfo.xml file with or without additional folders depending on the mod. Clear instructions on this stage are not possible due to different types of unzip application and their methods. However, this will become elementary once you've launched a few mods.
 
 Does this Mod need to be installed in the server/client host? = YES
 Do players also need to install this Mod? = NO
 
-The magic of this mod is that is only needs to be installed in the server/person who has launched the main environment that others join. It is a technical work of art. Enjoy.
+The magic of this mod is that is only needs to be installed in the server/person who has launched the main environment that others join. Enjoy.
 
 ==========================
 SERVER ADMIN CUSTOMISATION
